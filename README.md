@@ -27,5 +27,5 @@
 * Metadata & Afbeeldingen: [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Gebruiksrichtlijnen
-* Bij interesse voor gebruik van deze set vragen we of je de naamsvermelding 'Museae Brugge' wilt gebruiken. 
+* Bij interesse vragen we of je de naamsvermelding **Musea Brugge** wilt gebruiken. 
 * Persistente URI's van object zijn beschikbaar in het veld URI_metadata.
